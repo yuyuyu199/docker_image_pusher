@@ -1,1 +1,1 @@
-wzf9587/nas-tool:latest
+soulteary/flare:latest
