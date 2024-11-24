@@ -1,1 +1,1 @@
-docker pull lishon1127/nas-tool:v2.9.1
+lishon1127/nas-tool:v2.9.1
