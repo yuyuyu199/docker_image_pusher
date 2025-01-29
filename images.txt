@@ -1,1 +1,1 @@
-hectorqin/reader
+linuxserver/jackett:latest
