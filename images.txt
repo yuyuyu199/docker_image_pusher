@@ -1,1 +1,1 @@
-hectorqin/reader
+hectorqin/reader:latest
