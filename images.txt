@@ -1,1 +1,1 @@
-linuxserver/jackett:latest
+lscr.io/linuxserver/qbittorrent:latest
